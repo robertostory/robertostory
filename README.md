@@ -34,7 +34,7 @@
      
 ### 📫 &nbsp; How to reach me:
 
-
+<a href="https://gist.github.com/robertostory"><img src="https://img.shields.io/badge/-GitHub Gist-05122A?style=flat&logo=github"/></a>
 <a href="https://www.linkedin.com/in/robertostory/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:roberto.story@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/robertostory"><img src="https://img.shields.io/badge/-@robertostory-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp; 
